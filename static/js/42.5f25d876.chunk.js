@@ -1,0 +1,1 @@
+(this["webpackJsonpreact-antd-admin"]=this["webpackJsonpreact-antd-admin"]||[]).push([[42],{2654:function(t,n,a){"use strict";a.r(n);a(0);var e=a(2379),c=a(21);n.default=function(t){t.menu;return Object(c.b)(c.a,{children:Object(c.b)(e.a,{})})}}}]);
