@@ -1,0 +1,1 @@
+(this["webpackJsonpreact-antd-admin"]=this["webpackJsonpreact-antd-admin"]||[]).push([[82],{1025:function(c,t,a){"use strict";a.r(t);var e=a(0),n=a.n(e),s=a(50),b=a(37),i=a(100),r=a(442),u=a(12);t.default=function(){var c=Object(b.b)();return n.a.useEffect((function(){c(Object(r.c)())}),[]),Object(u.b)("div",{className:"bHXH-page",css:i.a,children:Object(u.b)(s.c,{})})}}}]);
